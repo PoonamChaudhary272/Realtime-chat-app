@@ -10,7 +10,7 @@ import jwt from 'jsonwebtoken';
 // Load environment variables
 dotenv.config();
 
-console.log('JWT_SECRET:', process.env.JWT_SECRET);
+
 // Import routes
 import authRoutes from './routes/auth.js';
 import roomRoutes from './routes/rooms.js';
