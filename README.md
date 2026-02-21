@@ -122,8 +122,6 @@ npm run dev:server
 
 Visit the app at: http://localhost:5174
 ![Screenshot 2025-05-20 124226](https://github.com/user-attachments/assets/378c378b-8533-427a-b647-3c057bf248d2)
-![Screenshot 2025-05-20 124226](https://github.com/user-attachments/assets/879b1708-f3a2-4a26-a0cd-e19415e3d26f)
-![Screenshot 2025-05-20 221508](https://github.com/user-attachments/assets/b3f3baf0-d41a-46e0-8026-246051e25689)
 ![Screenshot 2025-05-20 221718](https://github.com/user-attachments/assets/81f45b73-8794-43df-82a0-8f1354065be9)
 
 
